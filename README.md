@@ -1,1 +1,1 @@
-# Prueba-t-cnica-LIS-Data-Solutions
+# Prueba-tecnica-LIS-Data-Solutions
